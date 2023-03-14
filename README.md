@@ -2,7 +2,7 @@
 What if donations become transparent?<br/>Introducing a new and decentralised way to help!
 </p>
 <p align="center">
-<a href="https://youtu.be/0XVJO3rAd8M">View Demo</a>
+<a href="https://fundingblocks.ml/">View Demo</a>
 </p>
 
 <details open="open">
